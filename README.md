@@ -1,12 +1,36 @@
-# React + Vite
+# 🎬 React Movie Search App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React project built to practice and learn React fundamentals. It uses a public movie API to fetch and display information about movies. Users can search for movies and view trending titles.
 
-Currently, two official plugins are available:
+👉 **[Live Demo on Netlify](https://silver-cendol-7a8ab0.netlify.app/)**  
+📂 **[GitHub Repository](https://github.com/FdzBrayan/anime-app)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔍 Search for movies by title
+- 📈 View trending movies
+- 🎨 Clean and responsive UI
+- 📡 Fetches data from a public movie API
+
+---
+
+## 🛠️ Tech Stack
+
+- React
+- JavaScript (ES6+)
+- CSS
+- Movie API (e.g., TMDB or similar)
+
+---
+
+## 📦 Installation
+
+To run the project locally:
+
+```bash
+git clone https://github.com/FdzBrayan/anime-app.git
+cd anime-app
+npm install
+npm start
